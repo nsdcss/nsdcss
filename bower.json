@@ -4,6 +4,7 @@
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
+    "mixins": "git://github.com/nsdcss/mixins.git",
     "base": "git://github.com/nsdcss/base.git"
      }
 }
