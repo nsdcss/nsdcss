@@ -1,0 +1,9 @@
+{
+  "name": "sdacss",
+  "repo": "sdacss/sdacss",
+  "version": "0.1.0",
+  "dependencies": {
+     },
+  "author": "Nikolaj Sokolowski",
+  "license": "MIT"
+}
