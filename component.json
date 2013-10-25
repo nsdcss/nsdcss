@@ -1,8 +1,9 @@
 {
-  "name": "sdacss",
-  "repo": "sdacss/sdacss",
+  "name": "nsdcss",
+  "repo": "nsdcss/nsdcss",
   "version": "0.1.0",
-  "dependencies": {
+ "dependencies": {
+    "nsdcss/base": "*",
      },
   "author": "Nikolaj Sokolowski",
   "license": "MIT"
