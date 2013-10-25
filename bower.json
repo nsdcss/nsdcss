@@ -1,0 +1,9 @@
+{
+  "name": "nsdcss",
+  "version": "0.1.0",
+  "author": "Nikolaj Sokolowski",
+  "license": "MIT",
+  "dependencies": {
+    "suitcss/base": "v0.2.0",
+     }
+}
