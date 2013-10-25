@@ -4,6 +4,6 @@
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "nsdcss/base": "https://github.com/nsdcss/base"
+    "nsdcss/base": "https://github.com/nsdcss/base.git"
      }
 }
