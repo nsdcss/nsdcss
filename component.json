@@ -3,7 +3,7 @@
   "repo": "nsdcss/nsdcss",
   "version": "0.1.0",
  "dependencies": {
-    "nsdcss/base": "*",
+    "nsdcss/base": "https://github.com/nsdcss/base",
      },
   "author": "Nikolaj Sokolowski",
   "license": "MIT"
