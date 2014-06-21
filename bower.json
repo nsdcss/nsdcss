@@ -1,10 +1,9 @@
 {
-  "name": "nsdcss",
+  "name": "nsdcss.full",
   "version": "0.1.0",
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "mixins": "gnsdcss/mixins",
-    "base": "nsdcss/base"
+    "mixins": "nsdcss/core.variables"
      }
 }
