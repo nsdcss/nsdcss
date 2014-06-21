@@ -4,6 +4,6 @@
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "mixins": "nsdcss/core.variables"
+    "core-variables": "nsdcss/core.variables"
      }
 }
