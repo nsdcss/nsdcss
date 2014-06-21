@@ -4,6 +4,6 @@
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "nsdcss-core-variables": ">= 0.1.0"
+    "nsdcss-core-variables": "~0.2.0"
      }
 }
