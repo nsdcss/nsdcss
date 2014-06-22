@@ -1,11 +1,13 @@
 {
   "name": "nsdcss-full",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "nsdcss-core-variables": "https://github.com/nsdcss/core.variables.git",
     "nsdcss-spacing-padding": "https://github.com/nsdcss/spacing.padding.git",
-    "nsdcss-spacing-margin": "https://github.com/nsdcss/spacing.margin.git"
-     }
+    "nsdcss-spacing-margin": "https://github.com/nsdcss/spacing.margin.git",
+    "nsdcss-layout-core": "https://github.com/nsdcss/layout.core.git",
+    "nsdcss-layout-width": "https://github.com/nsdcss/layout.width.git",
+    "nsdcss-typo-size": "https://github.com/nsdcss/typo.size.git"
+  }
 }
