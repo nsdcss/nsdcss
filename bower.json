@@ -1,9 +1,10 @@
 {
   "name": "nsdcss-full",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
-    "nsdcss-core-variables": "~0.2.0"
+    "nsdcss-core-variables": "~0.2.0",
+    "nsdcss-spacing-padding": "~0.1.0"
      }
 }
