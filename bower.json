@@ -1,10 +1,11 @@
 {
   "name": "nsdcss-full",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "dependencies": {
     "nsdcss-core-variables": "https://github.com/nsdcss/core.variables.git",
-    "nsdcss-spacing-padding": "https://github.com/nsdcss/spacing.padding.git"
+    "nsdcss-spacing-padding": "https://github.com/nsdcss/spacing.padding.git",
+    "nsdcss-spacing-margin": "https://github.com/nsdcss/spacing.margin.git"
      }
 }
