@@ -8,6 +8,7 @@
     "nsdcss-spacing-margin": "https://github.com/nsdcss/spacing.margin.git",
     "nsdcss-layout-core": "https://github.com/nsdcss/layout.core.git",
     "nsdcss-layout-width": "https://github.com/nsdcss/layout.width.git",
-    "nsdcss-typo-size": "https://github.com/nsdcss/typo.size.git"
+    "nsdcss-typo-size": "https://github.com/nsdcss/typo.size.git",
+    "nsdcss-misc-diplay": "https://github.com/nsdcss/misc.display.git"
   }
 }
